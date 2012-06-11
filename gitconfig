@@ -1,0 +1,8 @@
+[user]
+    name = Manuel Rivas
+    email = marivas11@gmail.com
+[alias]
+    co = checkout
+[core]
+    editor = vim -f
+    gitproxy = /Users/marivas/bin/ssh-proxy
