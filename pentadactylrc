@@ -1,4 +1,4 @@
-"1.0rc1
+"1.0
 
 loadplugins '\.(js|penta)$'
 group user
