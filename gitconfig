@@ -6,3 +6,5 @@
 [core]
     editor = vim -f
     gitproxy = /Users/marivas/bin/ssh-proxy
+[push]
+	default = matching

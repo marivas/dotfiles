@@ -1,4 +1,4 @@
-"1.0rc1
+"hg6830
 
 loadplugins '\.(js|penta)$'
 group user
